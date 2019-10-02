@@ -1,0 +1,16 @@
+D:\Downloads\Misha\WebApplication5\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Downloads\Misha\WebApplication5\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Downloads\Misha\WebApplication5\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Downloads\Misha\WebApplication5\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.1\WebApplication5.deps.json
+D:\Downloads\Misha\WebApplication5\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.1\WebApplication5.runtimeconfig.json
+D:\Downloads\Misha\WebApplication5\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.1\WebApplication5.runtimeconfig.dev.json
+D:\Downloads\Misha\WebApplication5\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.1\WebApplication5.dll
+D:\Downloads\Misha\WebApplication5\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\WebApplication5.csprojAssemblyReference.cache
+D:\Downloads\Misha\WebApplication5\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\WebApplication5.RazorAssemblyInfo.cache
+D:\Downloads\Misha\WebApplication5\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\WebApplication5.RazorAssemblyInfo.cs
+D:\Downloads\Misha\WebApplication5\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\WebApplication5.AssemblyInfoInputs.cache
+D:\Downloads\Misha\WebApplication5\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\WebApplication5.AssemblyInfo.cs
+D:\Downloads\Misha\WebApplication5\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\WebApplication5.RazorTargetAssemblyInfo.cache
+D:\Downloads\Misha\WebApplication5\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.1\WebApplication5.pdb
+D:\Downloads\Misha\WebApplication5\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\WebApplication5.dll
+D:\Downloads\Misha\WebApplication5\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\WebApplication5.pdb

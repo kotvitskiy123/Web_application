@@ -1,0 +1,14 @@
+C:\Users\KORPUS\source\repos\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.2\WebApplication5.deps.json
+C:\Users\KORPUS\source\repos\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.2\WebApplication5.runtimeconfig.json
+C:\Users\KORPUS\source\repos\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.2\WebApplication5.runtimeconfig.dev.json
+C:\Users\KORPUS\source\repos\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.2\WebApplication5.dll
+C:\Users\KORPUS\source\repos\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.2\WebApplication5.pdb
+C:\Users\KORPUS\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.2\WebApplication5.csprojAssemblyReference.cache
+C:\Users\KORPUS\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.2\WebApplication5.csproj.CoreCompileInputs.cache
+C:\Users\KORPUS\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.2\WebApplication5.RazorAssemblyInfo.cache
+C:\Users\KORPUS\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.2\WebApplication5.RazorAssemblyInfo.cs
+C:\Users\KORPUS\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.2\WebApplication5.AssemblyInfoInputs.cache
+C:\Users\KORPUS\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.2\WebApplication5.AssemblyInfo.cs
+C:\Users\KORPUS\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.2\WebApplication5.RazorTargetAssemblyInfo.cache
+C:\Users\KORPUS\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.2\WebApplication5.dll
+C:\Users\KORPUS\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.2\WebApplication5.pdb
